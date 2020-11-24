@@ -15,7 +15,7 @@ function Nav() {
                 <FontAwesomeIcon icon={faGithub} />
                 <FontAwesomeIcon icon={faFileAlt} /> */}
             <nav className="navbar navbar-expand-md bg-dark navbar-dark">
-                <a className="navbar-brand" href="/index">Christopher George Kabana PhD</a>
+                <a className="navbar-brand">Christopher George Kabana PhD</a>
                 <button className="navbar-toggler" type="button" data-toggle="collapse" data-target="#collapsibleNavbar">
                     <span className="navbar-toggler-icon"></span>
                 </button>
