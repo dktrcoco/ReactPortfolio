@@ -1,0 +1,286 @@
+/* test */
+.dev-icons {
+    font-size: 3rem;
+    width: 100%;
+  }
+
+  .port {
+      text-align: center;
+  }
+
+  .portfolio {
+    position: relative;
+    width: 100%;
+    height: 400px;
+    margin-bottom: 20px;
+}
+
+  .imageText {
+    position: absolute;
+    bottom: 20px;
+    /* the a is alpha, or the opacity level */
+    background-color: rgba(0, 0, 255, 0.5); 
+    padding: 10px 0px;
+    width: 100%;
+    text-align: center;
+    margin: 0;
+    color: white;
+}
+
+.image {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+
+.reactText {
+    font-size: 15px;
+}
+
+.react .reactText {
+    visibility: hidden;
+    width: 120px;
+    background-color: black;
+    color: #fff;
+    text-align: center;
+    border-radius: 6px;
+    padding: 5px 0;
+
+    position: absolute;
+    z-index: 1; 
+}
+
+.react:hover .reactText {
+    visibility: visible;
+}
+
+.html5Text {
+    font-size: 15px;
+}
+
+.html5 .html5Text {
+    visibility: hidden;
+    width: 120px;
+    background-color: black;
+    color: #fff;
+    text-align: center;
+    border-radius: 6px;
+    padding: 5px 0;
+
+    position: absolute;
+    z-index: 1;
+}
+
+.html5:hover .html5Text {
+visibility: visible;
+}
+
+.css3Text {
+    font-size: 15px;
+}
+
+.css3 .css3Text {
+    visibility: hidden;
+    width: 120px;
+    background-color: black;
+    color: #fff;
+    text-align: center;
+    border-radius: 6px;
+    padding: 5px 0;
+
+    position: absolute;
+    z-index: 1;
+}
+
+.css3:hover .css3Text {
+visibility: visible;
+}
+
+.jsText {
+    font-size: 15px;
+}
+
+.js .jsText {
+    visibility: hidden;
+    width: 120px;
+    background-color: black;
+    color: #fff;
+    text-align: center;
+    border-radius: 6px;
+    padding: 5px 0;
+
+    position: absolute;
+    z-index: 1;
+}
+
+.js:hover .jsText {
+visibility: visible;
+}
+
+.nodeText {
+    font-size: 15px;
+}
+
+.node .nodeText {
+    visibility: hidden;
+    width: 120px;
+    background-color: black;
+    color: #fff;
+    text-align: center;
+    border-radius: 6px;
+    padding: 5px 0;
+
+    position: absolute;
+    z-index: 1;
+}
+
+.node:hover .nodeText {
+visibility: visible;
+}
+
+.npmText {
+    font-size: 15px;
+}
+
+.npm .npmText {
+    visibility: hidden;
+    width: 120px;
+    background-color: black;
+    color: #fff;
+    text-align: center;
+    border-radius: 6px;
+    padding: 5px 0;
+
+    position: absolute;
+    z-index: 1;
+}
+
+.npm:hover .npmText {
+visibility: visible;
+}
+
+.mySqlText {
+    font-size: 15px;
+}
+
+.mySql .mySqlText {
+    visibility: hidden;
+    width: 120px;
+    background-color: black;
+    color: #fff;
+    text-align: center;
+    border-radius: 6px;
+    padding: 5px 0;
+
+    position: absolute;
+    z-index: 1;
+}
+
+.mySql:hover .mySqlText {
+visibility: visible;
+}
+
+.sequelizeText {
+    font-size: 15px;
+}
+
+.sequelize .sequelizeText {
+    visibility: hidden;
+    width: 120px;
+    background-color: black;
+    color: #fff;
+    text-align: center;
+    border-radius: 6px;
+    padding: 5px 0;
+
+    position: absolute;
+    z-index: 1;
+}
+
+.sequelize:hover .sequelizeText {
+visibility: visible;
+}
+
+.mongoDBText {
+    font-size: 15px;
+}
+
+.mongoDB .mongoDBText {
+    visibility: hidden;
+    width: 120px;
+    background-color: black;
+    color: #fff;
+    text-align: center;
+    border-radius: 6px;
+    padding: 5px 0;
+
+    position: absolute;
+    z-index: 1;
+}
+
+.mongoDB:hover .mongoDBText {
+visibility: visible;
+}
+
+.expressText {
+    font-size: 15px;
+}
+
+.express .expressText {
+    visibility: hidden;
+    width: 120px;
+    background-color: black;
+    color: #fff;
+    text-align: center;
+    border-radius: 6px;
+    padding: 5px 0;
+
+    position: absolute;
+    z-index: 1;
+}
+
+.express:hover .expressText {
+visibility: visible;
+}
+
+.handlebarsText {
+    font-size: 15px;
+}
+
+.handlebars .handlebarsText {
+    visibility: hidden;
+    width: 120px;
+    background-color: black;
+    color: #fff;
+    text-align: center;
+    border-radius: 6px;
+    padding: 5px 0;
+
+    position: absolute;
+    z-index: 1;
+}
+
+.handlebars:hover .handlebarsText {
+visibility: visible;
+}
+
+.bootstrapText {
+    font-size: 15px;
+}
+
+.bootstrap .bootstrapText {
+    visibility: hidden;
+    width: 120px;
+    background-color: black;
+    color: #fff;
+    text-align: center;
+    border-radius: 6px;
+    padding: 5px 0;
+
+    position: absolute;
+    z-index: 1;
+}
+
+.bootstrap:hover .bootstrapText {
+visibility: visible;
+}

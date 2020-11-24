@@ -1,0 +1,23 @@
+.collapsible {
+    background-color: #777;
+    color: white;
+    cursor: pointer;
+    padding: 18px;
+    width: 100%;
+    border: black;
+    text-align: left;
+    outline: black;
+    outline-width: 5px;
+    font-size: 30px;
+}
+
+.content {
+    padding: 0 18px;
+    display: none;
+    overflow: hidden;
+}
+
+.para {
+    text-align: justify;
+    text-justify: inter-word;
+    }
