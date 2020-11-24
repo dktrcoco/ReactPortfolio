@@ -7,7 +7,6 @@ Link to GitHub Repo: https://github.com/dktrcoco/ReactPortfolio
 Table of Contents
 * [User Story](#story)
 * [Images](#images)
-* [Gifs](#gifs)
 * [Install](#install)
 * [Instructions](#instructions)
 * [Contribution](#contribution)
@@ -23,7 +22,17 @@ I want this webpage to also reflect my experience in developing an app utilizing
 
 ## Images
 
-## Gifs
+Fig. 1: Use of React Accordion for Collapsible Sections
+![Accordion](./public/assets/img/accordion.PNG)
+
+Fig. 2: Code of Accordion Functionality
+![AccordionCode](./public/assets/img/accordionCode.PNG)
+
+Fig. 3: Component Used for Creation of Buttons that Link Elsewhere
+![Component](./public/assets/img/checkoutButtonComponent.PNG)
+
+Fig. 4: Component from Figure 3 in Use
+![Component](./public/assets/img/checkoutButtonCode.PNG)
 
 ## Install
 
