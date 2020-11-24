@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/ReactPortfolio/static/css/main.ceb97df3.chunk.css",
+    "main.js": "/ReactPortfolio/static/js/main.c781e819.chunk.js",
+    "main.js.map": "/ReactPortfolio/static/js/main.c781e819.chunk.js.map",
+    "runtime-main.js": "/ReactPortfolio/static/js/runtime-main.3f0105d4.js",
+    "runtime-main.js.map": "/ReactPortfolio/static/js/runtime-main.3f0105d4.js.map",
+    "static/css/2.1a02f21c.chunk.css": "/ReactPortfolio/static/css/2.1a02f21c.chunk.css",
+    "static/js/2.3fc93d28.chunk.js": "/ReactPortfolio/static/js/2.3fc93d28.chunk.js",
+    "static/js/2.3fc93d28.chunk.js.map": "/ReactPortfolio/static/js/2.3fc93d28.chunk.js.map",
+    "static/js/3.204c3c35.chunk.js": "/ReactPortfolio/static/js/3.204c3c35.chunk.js",
+    "static/js/3.204c3c35.chunk.js.map": "/ReactPortfolio/static/js/3.204c3c35.chunk.js.map",
+    "index.html": "/ReactPortfolio/index.html",
+    "static/css/2.1a02f21c.chunk.css.map": "/ReactPortfolio/static/css/2.1a02f21c.chunk.css.map",
+    "static/css/main.ceb97df3.chunk.css.map": "/ReactPortfolio/static/css/main.ceb97df3.chunk.css.map",
+    "static/js/2.3fc93d28.chunk.js.LICENSE.txt": "/ReactPortfolio/static/js/2.3fc93d28.chunk.js.LICENSE.txt",
+    "static/media/ChrisKabanaResume.d3d88033.pdf": "/ReactPortfolio/static/media/ChrisKabanaResume.d3d88033.pdf",
+    "static/media/Forecast.503cbbc5.jpg": "/ReactPortfolio/static/media/Forecast.503cbbc5.jpg",
+    "static/media/HawaiiPic.e3e0b686.jpg": "/ReactPortfolio/static/media/HawaiiPic.e3e0b686.jpg",
+    "static/media/Meds.433f0eec.jpg": "/ReactPortfolio/static/media/Meds.433f0eec.jpg",
+    "static/media/burger2.0b488f23.png": "/ReactPortfolio/static/media/burger2.0b488f23.png",
+    "static/media/employee.40b6758c.png": "/ReactPortfolio/static/media/employee.40b6758c.png",
+    "static/media/gladiators.d6e0a5fa.jpg": "/ReactPortfolio/static/media/gladiators.d6e0a5fa.jpg",
+    "static/media/logo.103b5fa1.svg": "/ReactPortfolio/static/media/logo.103b5fa1.svg",
+    "static/media/note.86b7c214.png": "/ReactPortfolio/static/media/note.86b7c214.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3f0105d4.js",
+    "static/css/2.1a02f21c.chunk.css",
+    "static/js/2.3fc93d28.chunk.js",
+    "static/css/main.ceb97df3.chunk.css",
+    "static/js/main.c781e819.chunk.js"
+  ]
+}
