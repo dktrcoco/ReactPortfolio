@@ -1,6 +1,6 @@
 # ReactPortfolio
 
-Link of Deployed App: https://home-management-app.herokuapp.com/
+Link of Deployed App: https://dktrcoco.github.io/ReactPortfolio/
 
 Link to GitHub Repo: https://github.com/dktrcoco/ReactPortfolio
 
